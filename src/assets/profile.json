@@ -1,30 +1,30 @@
 {
-  "email": "rnldhv91@gmail.com",
-  "location": "Durbanville, Cape Town",
-  "name": "Ronald Hove",
-  "phone": "",
+  "email": "lacey.yepma@gmail.com",
+  "location": "Moorhead, MN",
+  "name": "Lacey Yepma",
+  "phone": "218-760-7298",
   "avatar": "assets/media/images/pro_offerzen.jpg",
   "education": [
     {
-      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
-      "meta": "University of the Western Cape,  Jan 2014 – Nov 2018"
+      "title": "Bachelor of Science (BSc) in Computer Science",
+      "meta": "North Dakota State University,  Aug 2018 – May 2021"
     }
   ],
-  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
+  "about": "I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
   "socials": [
     {
-      "name": "rnldhv91@gmail.com",
-      "link": "mailto:rnldhv91@gmail.com",
+      "name": "lacey.yepma@gmail.com",
+      "link": "mailto:lacey.yepma@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
       "name": "Github",
-      "link": "https://github.com/ronald-hove",
+      "link": "https://github.com/lacey-yepma",
       "icon": "fab fa-github"
     },
     {
       "name": "LinkedIn",
-      "link": "https://www.linkedin.com/in/ronald-hove/",
+      "link": "https://www.linkedin.com/in/lacey-yepma-621290195/",
       "icon": "fab fa-linkedin"
     }
   ]
