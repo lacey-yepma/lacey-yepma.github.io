@@ -1,13 +1,13 @@
 {
   "top_skills": [
-    "Ionic",
+    "Java",
+    "SQL",
+    "C#",
     "Angular",
+    "JavaScript",
     "NodeJs",
     "Git",
     "Python",
-    "JavaScript",
-    "Express",
-    "Android",
-    "MongoDB"
+    "Postgresql"
   ]
 }

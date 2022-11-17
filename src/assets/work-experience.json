@@ -1,56 +1,42 @@
 {
   "work": [
     {
-      "date": "September 2018 - Present",
-      "title": "Software Developer at Lava Lamp Lab",
-      "description": "Conduct Work in developing cross-platform mobile applications (iOS and Android) as well as Backend applications. \n\nWe mainly develop using Agile over two-week sprints.",
+      "date": "October 2022 - Present",
+      "title": "Software Developer II at Noridian Healthcare Solutions",
+      "description": "I currently support, maintain, and develop solutions for Tibco.",
       "stack": [
-        "Ionic",
-        "Angular",
-        "Node.js",
-        "npm",
-        "Git",
-        "Bitbucket",
-        "GitHub",
-        "Agile",
-        "Laravel",
-        "Express.js",
-        "Azure",
-        "Cosmos DB",
-        "JavaScript",
-        "TypeScript"
-      ]
-    },
-    {
-      "date": "September 2017 - September 2018",
-      "title": "Technical Intern at WC Colab for eInclusion and Social Innovation | Core Team",
-      "description": "I worked in a team of students focussing on projects centred around applications development, robotics, machine learning and designing courses to teach other students about these applications of technology.",
-      "stack": [
-        "Python",
+        "Tibco",
+        "EDI",
         "Linux",
-        "Angular",
-        "Ionic"
+        "SQL",
+        "Hawk",
+        "Agile"
       ]
     },
     {
-      "date": "January 2017 - present",
-      "title": "Freelance Software Developer",
-      "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in Cape Town and Around South Africa.",
+      "date": "June 2021 - October 2022",
+      "title": "Software Developer I at Noridian Healthcare Solutions",
+      "description": "In this position I coded, tested, debuged, documented, and maintained programs utilizing programming languages and an understanding of how data is related across multiple databases, tables, and platforms. I also collaborated with other internal teams to resolve advanced and highly visible issues in a timely manner on top of handling installation, configuration, development, workflow design, monitoring, and upgrades of assigned software products. ",
       "stack": [
-        "Angular",
-        "PHP",
-        "Python",
-        "RESTful API Design",
-        "MongoDB",
-        "Firebase",
-        "MySQL",
-        "Node.js",
-        "npm",
-        "Ionic",
-        "Database Design",
-        "Amazon EC2",
-        "Postman",
-        "Linux"
+        "SQL",
+        "C#",
+        "OnBase",
+        "Agile"
+      ]
+    },
+    {
+      "date": "May 2020 - August 2020",
+      "title": "Intern Software Developer at Blue Cross Blue Shield of North Dakota",
+      "description": "I performed a variety of software related tasks and worked on application problems of increasing scope and complexity. I resolved all assigned incidents, requests, and work orders, created and documented procedures, resolutions, and concepts, and troubleshot a range of software problems leveraging knowledge and research while collaborating with senior coworkers in support of enterprise applications, both on-premises and cloud-based.",
+      "stack": [
+        "C#",
+        "SQL",
+        "Powershell",
+        "SalesForce",
+        "SharePoint",
+        "ServiceNow",
+        "Deltek",
+        "Azure DevOps"
       ]
     }
 
