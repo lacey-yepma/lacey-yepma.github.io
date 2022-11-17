@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "preview": "assets/media/projects/CapstoneMockUp.png",
+      "created_at": "2022-07-20T14:18:15.923+02:00",
+      "name": "BCBSND Onboarding Application",
+      "description": "I worked on this project from the ground up alongside a team of fellow developers. We created an integrated application allowing users to go through the onboarding process easily and allowing management to view processes, reports, and notification for their employees."
+    },
+
+    {
+      "preview": "assets/media/projects/Movie.jpg",
+      "created_at": "2019-07-20T14:24:00.709+02:00",
+      "name": "Filmatory (Movie Recommendation Website)",
+      "description": "I developed this project to provide users with an application that could dynamically recommend movies based on user's input preferences. The website was developed with angular, the database was PostgreSQL, and the backend was developed with Node.js. The recommendation algorithm was developed in javascript and dynamically selected recomended movies based on user's favorites lists and filter selections."
+    },
+    {
+      "preview": "assets/media/projects/ObjectOrientedProgramming.png",
+      "created_at": "2022-07-20T14:18:15.923+02:00",
+      "name": "Object Oriented Programming Video",
+      "description": "I created a video explaining the concepts of object oriented programming to students. I spent a semester as a learning assistant and used this project to help the class better understand the extremely important concept of object orientation in programming."
+    }
+  ]
+}
